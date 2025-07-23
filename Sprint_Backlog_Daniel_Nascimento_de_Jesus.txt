@@ -1,0 +1,11 @@
+SPRINT BACKLOG
+
+Sprint: Sprint 1
+Objetivo do Sprint: Melhorar a usabilidade e navegação das páginas index.html e contato.html.
+
+ID | Descrição                                                                                       | Esforço Estimado | Observações
+---|--------------------------------------------------------------------------------------------------|------------------|------------------------------
+1  | Mudar a cor dos nomes dos veículos na página index para azul.                                   | 1:30 hora          | Editar o HTML manualmente.
+3  | Atualizar os nomes dos links da página contato para descrições mais detalhadas.                 | 30 minutos          | Editar o HTML na branch contato.
+
+Total estimado de esforço: 2 horas
