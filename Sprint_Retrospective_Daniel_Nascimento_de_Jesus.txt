@@ -1,0 +1,16 @@
+SPRINT RETROSPECTIVE
+
+Sprint: Sprint 1
+Participantes: Equipe de desenvolvimento (incluindo Daniel Nascimento de Jesus), PO e Scrum Master
+Data: 23/07/2025
+
+O que funcionou bem:
+- A criação das branches index e contato foi clara e organizada.
+- As alterações em HTML foram simples de executar e bem definidas nas histórias.
+- O processo de merge para a branch principal foi feito com sucesso.
+- O uso do Git e GitHub facilitou o versionamento e rastreabilidade.
+
+O que não funcionou bem:
+- A estimativa de esforço foi um pouco otimista para quem ainda está em processo de aprendizado.
+
+
